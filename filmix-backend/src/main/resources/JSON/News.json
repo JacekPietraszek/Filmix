@@ -1,0 +1,200 @@
+[
+  {
+    "movie": {
+      "id": 23
+    },
+    "content": "Bardzo polecam ten film, świetne aktorstwo i wciągająca fabuła!"
+  },
+  {
+    "movie": {
+      "id": 134
+    },
+    "content": "Nie byłam przekonana do tego filmu, ale okazał się być naprawdę interesujący."
+  },
+  {
+    "movie": {
+      "id": 89
+    },
+    "content": "Niestety, film nie spełnił moich oczekiwań. Słaba reżyseria i nijaka historia."
+  },
+  {
+    "movie": {
+      "id": 57
+    },
+    "content": "Znakomita komedia! Śmiałam się do łez."
+  },
+  {
+    "movie": {
+      "id": 112
+    },
+    "content": "Ten film to majstersztyk kina! Niezapomniana przygoda."
+  },
+  {
+    "movie": {
+      "id": 5
+    },
+    "content": "Warto było wybrać się do kina na ten film. Polecam!"
+  },
+  {
+    "movie": {
+      "id": 98
+    },
+    "content": "Nie przepadam za horrorami, ale ten mnie pozytywnie zaskoczył."
+  },
+  {
+    "movie": {
+      "id": 41
+    },
+    "content": "Niestety, film okazał się być nudny i przewidywalny."
+  },
+  {
+    "movie": {
+      "id": 77
+    },
+    "content": "Fantastyczna muzyka! To jeden z najlepszych soundtracków, jakie słyszałam."
+  },
+  {
+    "movie": {
+      "id": 16
+    },
+    "content": "Wciągający thriller z zaskakującym zakończeniem."
+  },
+  {
+    "movie": {
+      "id": 133
+    },
+    "content": "Ten film to strzał w dziesiątkę! Rewelacyjna historia i wspaniałe zdjęcia."
+  },
+  {
+    "movie": {
+      "id": 64
+    },
+    "content": "Zdecydowanie odradzam ten film. Strata czasu."
+  },
+  {
+    "movie": {
+      "id": 50
+    },
+    "content": "Cudowna opowieść, która porusza serce. Będę go polecać wszystkim."
+  },
+  {
+    "movie": {
+      "id": 3
+    },
+    "content": "Zakochałam się w tym filmie! Romantyczny klimat idealny na wieczór we dwoje."
+  },
+  {
+    "movie": {
+      "id": 123
+    },
+    "content": "Ekscytujący film akcji z niezwykle widowiskowymi efektami specjalnymi."
+  },
+  {
+    "movie": {
+      "id": 29
+    },
+    "content": "Nie przepadam za dramatami, ale ten mnie wciągnął do ostatniej minuty."
+  },
+  {
+    "movie": {
+      "id": 72
+    },
+    "content": "Ciekawy pomysł na fabułę, ale wykonanie pozostawia wiele do życzenia."
+  },
+  {
+    "movie": {
+      "id": 118
+    },
+    "content": "Zabawna komedia romantyczna, idealna na poprawienie sobie humoru."
+  },
+  {
+    "movie": {
+      "id": 96
+    },
+    "content": "Zachwycająca rola głównego aktora, godna Oscarowej nominacji."
+  },
+  {
+    "movie": {
+      "id": 45
+    },
+    "content": "Film zaskoczył mnie pozytywnie, warto dać mu szansę."
+  },
+  {
+    "movie": {
+      "id": 83
+    },
+    "content": "Nie wiem, jak można było nakręcić coś takiego. Strasznie rozczarowujące."
+  },
+  {
+    "movie": {
+      "id": 1
+    },
+    "content": "Cudowna baśń dla dzieci i dorosłych. Wspaniałe animacje i głęboki przekaz."
+  },
+  {
+    "movie": {
+      "id": 101
+    },
+    "content": "Film godny uwagi, ale spodziewałam się czegoś więcej."
+  },
+  {
+    "movie": {
+      "id": 19
+    },
+    "content": "Niesamowity film science-fiction, który skradł moje serce."
+  },
+  {
+    "movie": {
+      "id": 80
+    },
+    "content": "Nie polecam tego filmu, nudny i bez polotu."
+  },
+  {
+    "movie": {
+      "id": 30
+    },
+    "content": "Wciągający thriller, trzyma w napięciu do samego końca."
+  },
+  {
+    "movie": {
+      "id": 76
+    },
+    "content": "Rewelacyjny film animowany dla całej rodziny, świetna zabawa gwarantowana."
+  },
+  {
+    "movie": {
+      "id": 147
+    },
+    "content": "Dla fanów kina akcji to obowiązkowy seans. Efekty są niesamowite."
+  },
+  {
+    "movie": {
+      "id": 93
+    },
+    "content": "Nie mogłam oderwać się od ekranu, film trzyma w napięciu."
+  },
+  {
+    "movie": {
+      "id": 27
+    },
+    "content": "Film pełen niezapomnianych momentów. Cudowna podróż w świat wyobraźni."
+  },
+  {
+    "movie": {
+      "id": 88
+    },
+    "content": "Za dużo efektów specjalnych, za mało treści. Słaby scenariusz."
+  },
+  {
+    "movie": {
+      "id": 58
+    },
+    "content": "Ciekawy psychologiczny thriller, świetnie zagrany."
+  },
+  {
+    "movie": {
+      "id": 115
+    },
+    "content": "Mocno przereklamowany film. Nie rozumiem tego fenomenu."
+  }
+]

@@ -1,0 +1,17 @@
+.search-bar 
+{
+
+float: left;
+/*
+margin-top: 35px;
+margin-left: 60px;
+*/
+margin-left: 60px;
+}
+
+.form-inline
+{
+    margin-top: 30px;
+    margin-left: 18px;
+}
+ 

@@ -1,0 +1,970 @@
+[
+  {
+    "movie": {
+      "id": 23
+    },
+    "content": "Bardzo polecam ten film, świetne aktorstwo i wciągająca fabuła!"
+  },
+  {
+    "movie": {
+      "id": 134
+    },
+    "content": "Nie byłam przekonana do tego filmu, ale okazał się być naprawdę interesujący."
+  },
+  {
+    "movie": {
+      "id": 89
+    },
+    "content": "Niestety, film nie spełnił moich oczekiwań. Słaba reżyseria i nijaka historia."
+  },
+  {
+    "movie": {
+      "id": 57
+    },
+    "content": "Znakomita komedia! Śmiałam się do łez."
+  },
+  {
+    "movie": {
+      "id": 112
+    },
+    "content": "Ten film to majstersztyk kina! Niezapomniana przygoda."
+  },
+  {
+    "movie": {
+      "id": 5
+    },
+    "content": "Warto było wybrać się do kina na ten film. Polecam!"
+  },
+  {
+    "movie": {
+      "id": 98
+    },
+    "content": "Nie przepadam za horrorami, ale ten mnie pozytywnie zaskoczył."
+  },
+  {
+    "movie": {
+      "id": 41
+    },
+    "content": "Niestety, film okazał się być nudny i przewidywalny."
+  },
+  {
+    "movie": {
+      "id": 77
+    },
+    "content": "Fantastyczna muzyka! To jeden z najlepszych soundtracków, jakie słyszałam."
+  },
+  {
+    "movie": {
+      "id": 16
+    },
+    "content": "Wciągający thriller z zaskakującym zakończeniem."
+  },
+  {
+    "movie": {
+      "id": 133
+    },
+    "content": "Ten film to strzał w dziesiątkę! Rewelacyjna historia i wspaniałe zdjęcia."
+  },
+  {
+    "movie": {
+      "id": 64
+    },
+    "content": "Zdecydowanie odradzam ten film. Strata czasu."
+  },
+  {
+    "movie": {
+      "id": 50
+    },
+    "content": "Cudowna opowieść, która porusza serce. Będę go polecać wszystkim."
+  },
+  {
+    "movie": {
+      "id": 3
+    },
+    "content": "Zakochałam się w tym filmie! Romantyczny klimat idealny na wieczór we dwoje."
+  },
+  {
+    "movie": {
+      "id": 123
+    },
+    "content": "Ekscytujący film akcji z niezwykle widowiskowymi efektami specjalnymi."
+  },
+  {
+    "movie": {
+      "id": 29
+    },
+    "content": "Nie przepadam za dramatami, ale ten mnie wciągnął do ostatniej minuty."
+  },
+  {
+    "movie": {
+      "id": 72
+    },
+    "content": "Ciekawy pomysł na fabułę, ale wykonanie pozostawia wiele do życzenia."
+  },
+  {
+    "movie": {
+      "id": 118
+    },
+    "content": "Zabawna komedia romantyczna, idealna na poprawienie sobie humoru."
+  },
+  {
+    "movie": {
+      "id": 96
+    },
+    "content": "Zachwycająca rola głównego aktora, godna Oscarowej nominacji."
+  },
+  {
+    "movie": {
+      "id": 45
+    },
+    "content": "Film zaskoczył mnie pozytywnie, warto dać mu szansę."
+  },
+  {
+    "movie": {
+      "id": 83
+    },
+    "content": "Nie wiem, jak można było nakręcić coś takiego. Strasznie rozczarowujące."
+  },
+  {
+    "movie": {
+      "id": 1
+    },
+    "content": "Cudowna baśń dla dzieci i dorosłych. Wspaniałe animacje i głęboki przekaz."
+  },
+  {
+    "movie": {
+      "id": 101
+    },
+    "content": "Film godny uwagi, ale spodziewałam się czegoś więcej."
+  },
+  {
+    "movie": {
+      "id": 19
+    },
+    "content": "Niesamowity film science-fiction, który skradł moje serce."
+  },
+  {
+    "movie": {
+      "id": 80
+    },
+    "content": "Nie polecam tego filmu, nudny i bez polotu."
+  },
+  {
+    "movie": {
+      "id": 30
+    },
+    "content": "Wciągający thriller, trzyma w napięciu do samego końca."
+  },
+  {
+    "movie": {
+      "id": 76
+    },
+    "content": "Rewelacyjny film animowany dla całej rodziny, świetna zabawa gwarantowana."
+  },
+  {
+    "movie": {
+      "id": 147
+    },
+    "content": "Dla fanów kina akcji to obowiązkowy seans. Efekty są niesamowite."
+  },
+  {
+    "movie": {
+      "id": 93
+    },
+    "content": "Nie mogłam oderwać się od ekranu, film trzyma w napięciu."
+  },
+  {
+    "movie": {
+      "id": 27
+    },
+    "content": "Film pełen niezapomnianych momentów. Cudowna podróż w świat wyobraźni."
+  },
+  {
+    "movie": {
+      "id": 88
+    },
+    "content": "Za dużo efektów specjalnych, za mało treści. Słaby scenariusz."
+  },
+  {
+    "movie": {
+      "id": 58
+    },
+    "content": "Ciekawy psychologiczny thriller, świetnie zagrany."
+  },
+  {
+    "movie": {
+      "id": 115
+    },
+    "content": "Mocno przereklamowany film. Nie rozumiem tego fenomenu."
+  },
+  {
+    "movie": {
+      "id": 17
+    },
+    "content": "Ten film mnie zaskoczył swoją oryginalnością. Gorąco polecam."
+  },
+  {
+    "movie": {
+      "id": 136
+    },
+    "content": "Słaba rola głównego aktora, niestety film nie przypadł mi do gustu."
+  },
+  {
+    "movie": {
+      "id": 74
+    },
+    "content": "Wspaniała adaptacja książki, oddaje ducha oryginału."
+  },
+  {
+    "movie": {
+      "id": 47
+    },
+    "content": "To już drugi raz, kiedy widziałam ten film. Nadal zachwycający."
+  },
+  {
+    "movie": {
+      "id": 7
+    },
+    "content": "Nie spodziewałam się, że aż tak bardzo polubię ten film. Fenomenalny."
+  },
+  {
+    "movie": {
+      "id": 141
+    },
+    "content": "Bardzo wzruszający dramat, polecam z przygotowanymi chusteczkami."
+  },
+  {
+    "movie": {
+      "id": 35
+    },
+    "content": "Nie czuję się zbyt dobrze po tym filmie. Za dużo brutalności."
+  },
+  {
+    "movie": {
+      "id": 75
+    },
+    "content": "Film pełen akcji i efektów specjalnych. Nieźle się bawiłem."
+  },
+  {
+    "movie": {
+      "id": 136
+    },
+    "content": "Słaba rola głównego aktora, niestety film nie przypadł mi do gustu."
+  },
+  {
+    "movie": {
+      "id": 145
+    },
+    "content": "Mroczny i intrygujący thriller, zaskakująca fabuła."
+  },
+  {
+    "movie": {
+      "id": 85
+    },
+    "content": "Ciekawa historia, ale film za długi, momentami się nudziłam."
+  },
+  {
+    "movie": {
+      "id": 71
+    },
+    "content": "Klasyka kina! Ten film nigdy nie zestarzeje się."
+  },
+  {
+    "movie": {
+      "id": 2
+    },
+    "content": "Nie podobał mi się ten film. Nie czuję, żeby był wart uwagi."
+  },
+  {
+    "movie": {
+      "id": 125
+    },
+    "content": "Kolejny hit tego reżysera! Nie mogę doczekać się kontynuacji."
+  },
+  {
+    "movie": {
+      "id": 68
+    },
+    "content": "Bardzo przeciętny film. Nie zachwycił mnie w żadnym aspekcie."
+  },
+  {
+    "movie": {
+      "id": 40
+    },
+    "content": "Fantastyczny film przygodowy, pełen emocji i akcji."
+  },
+  {
+    "movie": {
+      "id": 81
+    },
+    "content": "Nudny, przewidywalny, nie polecam."
+  },
+  {
+    "movie": {
+      "id": 55
+    },
+    "content": "Wspaniały film familijny, idealny na wspólny wieczór przed telewizorem."
+  },
+  {
+    "movie": {
+      "id": 124
+    },
+    "content": "Film obowiązkowy dla fanów kina grozy. Strasznie wciągający."
+  },
+  {
+    "movie": {
+      "id": 120
+    },
+    "content": "Nie spodziewałam się, że film zrobi na mnie takie wrażenie. Genialny."
+  },
+  {
+    "movie": {
+      "id": 49
+    },
+    "content": "Słabe aktorstwo, słaby scenariusz. Na pewno nie obejrzę ponownie."
+  },
+  {
+    "movie": {
+      "id": 108
+    },
+    "content": "Film, który skłonił mnie do głębszych przemyśleń. Warto go zobaczyć."
+  },
+  {
+    "movie": {
+      "id": 26
+    },
+    "content": "Nie jestem pewien, czy rozumiem przekaz tego filmu."
+  },
+  {
+    "movie": {
+      "id": 97
+    },
+    "content": "Film wciągnął mnie na dobre, ciężko było oderwać wzrok od ekranu."
+  },
+  {
+    "movie": {
+      "id": 110
+    },
+    "content": "Wielkie rozczarowanie. Nie rozumiem pochlebnych opinii na temat tego filmu."
+  },
+  {
+    "movie": {
+      "id": 38
+    },
+    "content": "Film dla miłośników kina akcji. Wciągający i pełen efektów specjalnych."
+  },
+  {
+    "movie": {
+      "id": 97
+    },
+    "content": "Film wart swojej ceny biletu. Ciekawa historia."
+  },
+  {
+    "movie": {
+      "id": 105
+    },
+    "content": "Fantastyczny film, który podbił moje serce."
+  },
+  {
+    "movie": {
+      "id": 61
+    },
+    "content": "Niesamowita podróż w czasie, film wciąga od pierwszych minut."
+  },
+  {
+    "movie": {
+      "id": 100
+    },
+    "content": "Kolejna perełka tego reżysera. Nie mogę się doczekać kolejnych filmów."
+  },
+  {
+    "movie": {
+      "id": 126
+    },
+    "content": "Film pełen magii i emocji. Bawiłem się doskonale."
+  },
+  {
+    "movie": {
+      "id": 21
+    },
+    "content": "Nie dość, że film jest nudny, to jeszcze ma zbyt długą fabułę."
+  },
+  {
+    "movie": {
+      "id": 64
+    },
+    "content": "Film o długiej i skomplikowanej historii. Nie dla każdego."
+  },
+  {
+    "movie": {
+      "id": 132
+    },
+    "content": "Świetny film sensacyjny, wiele nieprzewidywalnych zwrotów akcji."
+  },
+  {
+    "movie": {
+      "id": 54
+    },
+    "content": "Film poruszający trudne tematy społeczne. Warto obejrzeć z otwartym sercem."
+  },
+  {
+    "movie": {
+      "id": 99
+    },
+    "content": "Nie polecam tego filmu. Nie przekonał mnie do siebie."
+  },
+  {
+    "movie": {
+      "id": 111
+    },
+    "content": "Niezwykle wzruszający film, który zostaje w pamięci na długo."
+  },
+  {
+    "movie": {
+      "id": 70
+    },
+    "content": "Film akcji pełen adrenaliny i wspaniałych efektów."
+  },
+  {
+    "movie": {
+      "id": 37
+    },
+    "content": "Nie jestem pewien, co o tym filmie myśleć. Mieszane uczucia."
+  },
+  {
+    "movie": {
+      "id": 125
+    },
+    "content": "Film o silnych emocjach i ważnych życiowych lekcjach."
+  },
+  {
+    "movie": {
+      "id": 124
+    },
+    "content": "Film grozy, który spędził mi sen z powiek. Strasznie wciągający."
+  },
+  {
+    "movie": {
+      "id": 150
+    },
+    "content": "Ostatnia część tej serii filmowej to spektakularne zwieńczenie sagi."
+  },
+
+  {
+    "movie": {
+      "id": 52
+    },
+    "content": "Film animowany, który zachwycił mnie nie tylko świetną grafiką, ale także przekazem."
+  },
+  {
+    "movie": {
+      "id": 66
+    },
+    "content": "Ten film to prawdziwe arcydzieło kinematografii. Aktorstwo na najwyższym poziomie."
+  },
+  {
+    "movie": {
+      "id": 128
+    },
+    "content": "Nie jestem pewien, co reżyser miał na myśli, tworząc ten film. Zbyt abstrakcyjny dla mnie."
+  },
+  {
+    "movie": {
+      "id": 144
+    },
+    "content": "Ekscytujący thriller, który trzyma w napięciu od pierwszej do ostatniej sceny."
+  },
+  {
+    "movie": {
+      "id": 87
+    },
+    "content": "Wspaniały film obyczajowy, który porusza ważne tematy społeczne."
+  },
+  {
+    "movie": {
+      "id": 114
+    },
+    "content": "Ten film to poezja w ruchu. Oszałamiające choreografie i wspaniała muzyka."
+  },
+  {
+    "movie": {
+      "id": 103
+    },
+    "content": "Film nie tylko dla fanów kina akcji, ale także dla miłośników emocji."
+  },
+  {
+    "movie": {
+      "id": 142
+    },
+    "content": "Słodko-gorzki dramat z doskonałymi aktorami. Z pewnością zostaje w pamięci."
+  },
+  {
+    "movie": {
+      "id": 10
+    },
+    "content": "Film dla tych, którzy kochają historie o młodych bohaterach i ich przygodach."
+  },
+  {
+    "movie": {
+      "id": 48
+    },
+    "content": "Niezwykle wzruszająca opowieść o sile rodziny i miłości."
+  },
+  {
+    "movie": {
+      "id": 90
+    },
+    "content": "Film grozy, który kładzie się cieniem na myślach na długo po seansie."
+  },
+  {
+    "movie": {
+      "id": 134
+    },
+    "content": "Nawet jeśli nie jesteś fanem filmów kostiumowych, ten może cię pozytywnie zaskoczyć."
+  },
+  {
+    "movie": {
+      "id": 59
+    },
+    "content": "Nie zrozumcie mnie źle, ale ten film był dla mnie kompletnie niezrozumiały."
+  },
+  {
+    "movie": {
+      "id": 85
+    },
+    "content": "Przyjemny film komediowy, który wesoło opowiada historię o przyjaźni."
+  },
+  {
+    "movie": {
+      "id": 146
+    },
+    "content": "Nie spodziewałem się, że ten film mnie tak wciągnie. Fenomenalna gra aktorska."
+  },
+  {
+    "movie": {
+      "id": 25
+    },
+    "content": "Dobrze zrealizowany dramat, który pokazuje prawdziwe oblicze ludzkiej natury."
+  },
+  {
+    "movie": {
+      "id": 84
+    },
+    "content": "Film akcji, który porywa widza od pierwszej do ostatniej minuty."
+  },
+  {
+    "movie": {
+      "id": 31
+    },
+    "content": "Ten film to mistrzostwo narracji i zaskakujący finał."
+  },
+  {
+    "movie": {
+      "id": 92
+    },
+    "content": "Wciągający thriller, który skłania do refleksji nad prawdą i kłamstwem."
+  },
+  {
+    "movie": {
+      "id": 119
+    },
+    "content": "Film przygodowy, który oczarowuje pięknymi krajobrazami i niezwykłymi postaciami."
+  },
+  {
+    "movie": {
+      "id": 127
+    },
+    "content": "Gorąco polecam ten film, świetna zabawa dla całej rodziny gwarantowana."
+  },
+  {
+    "movie": {
+      "id": 103
+    },
+    "content": "Film o miłości i pasji, który zostaje w sercach na długo."
+  },
+  {
+    "movie": {
+      "id": 132
+    },
+    "content": "Zaskakujący thriller z niesamowitym twistem w finale. Rewelacyjny."
+  },
+  {
+    "movie": {
+      "id": 37
+    },
+    "content": "Ten film to prawdziwa uczta dla miłośników kina artystycznego."
+  },
+  {
+    "movie": {
+      "id": 125
+    },
+    "content": "Film o ważnych wartościach, które powinny kształtować naszą codzienność."
+  },
+  {
+    "movie": {
+      "id": 124
+    },
+    "content": "Ten film wprawił mnie w przerażenie. Genialny thriller psychologiczny."
+  },
+  {
+    "movie": {
+      "id": 150
+    },
+    "content": "Niesamowity finał sagi, który spełnił oczekiwania wszystkich fanów."
+  },
+  {
+    "movie": {
+      "id": 107
+    },
+    "content": "Film przygodowy, który wciąga widza w pełni do świata wyobraźni."
+  },
+  {
+    "movie": {
+      "id": 11
+    },
+    "content": "Ten film to prawdziwa uczta dla miłośników historii i epickich bitew."
+  },
+  {
+    "movie": {
+      "id": 28
+    },
+    "content": "Zachwycający film dokumentalny, który ukazuje piękno i dzikość natury."
+  },
+  {
+    "movie": {
+      "id": 67
+    },
+    "content": "Nietuzinkowy thriller z zaskakującym zakończeniem, polecam fanom gatunku."
+  },
+  {
+    "movie": {
+      "id": 94
+    },
+    "content": "Film pełen emocji i trudnych wyborów, który zostaje w pamięci na długo."
+  },
+  {
+    "movie": {
+      "id": 115
+    },
+    "content": "Ten film to prawdziwe arcydzieło sztuki filmowej, niepowtarzalne doświadczenie."
+  },
+  {
+    "movie": {
+      "id": 46
+    },
+    "content": "Niezapomniana komedia romantyczna, idealna na chłodne wieczory."
+  },
+  {
+    "movie": {
+      "id": 67
+    },
+    "content": "Zaskakujący thriller, który trzyma w napięciu do ostatnich sekund."
+  },
+  {
+    "movie": {
+      "id": 30
+    },
+    "content": "Wspaniała adaptacja książki, oddaje całą głębię fabuły i postaci."
+  },
+  {
+    "movie": {
+      "id": 89
+    },
+    "content": "Nie spodziewałem się, że ten film tak mnie wciągnie. Genialna reżyseria."
+  },
+  {
+    "movie": {
+      "id": 130
+    },
+    "content": "Film akcji, który robi wrażenie i zostaje w pamięci na długo."
+  },
+  {
+    "movie": {
+      "id": 63
+    },
+    "content": "Intrygujący thriller psychologiczny, który bawi do ostatnich sekund."
+  },
+  {
+    "movie": {
+      "id": 134
+    },
+    "content": "Nie mogę uwierzyć, jak bardzo ten film mnie zachwycił. Fenomenalny!"
+  },
+  {
+    "movie": {
+      "id": 40
+    },
+    "content": "Niesamowity film przygodowy, pełen magii i tajemniczych stworzeń."
+  },
+  {
+    "movie": {
+      "id": 99
+    },
+    "content": "Nie podobał mi się ten film, nie trafił w mój gust."
+  },
+  {
+    "movie": {
+      "id": 3
+    },
+    "content": "Film pełen niezapomnianych momentów, który wzrusza do łez."
+  },
+  {
+    "movie": {
+      "id": 82
+    },
+    "content": "Przyjemny film komediowy, który poprawia humor."
+  },
+  {
+    "movie": {
+      "id": 121
+    },
+    "content": "Film obyczajowy, który skłania do refleksji nad życiowymi wyborami."
+  },
+  {
+    "movie": {
+      "id": 37
+    },
+    "content": "Film dla miłośników historii, którzy pokochają ten epicki spektakl."
+  },
+  {
+    "movie": {
+      "id": 105
+    },
+    "content": "Niezwykły film, który dostarcza niezapomnianych wrażeń."
+  },
+  {
+    "movie": {
+      "id": 19
+    },
+    "content": "Film o sile miłości, który porusza najgłębsze emocje."
+  },
+  {
+    "movie": {
+      "id": 71
+    },
+    "content": "Ten film to prawdziwa uczta dla miłośników kina i sztuki."
+  },
+  {
+    "movie": {
+      "id": 141
+    },
+    "content": "Wciągający thriller, który zaskakuje od pierwszych scen."
+  },
+  {
+    "movie": {
+      "id": 5
+    },
+    "content": "Film sensacyjny, który wciąga od pierwszych minut."
+  },
+  {
+    "movie": {
+      "id": 110
+    },
+    "content": "Ten film to prawdziwa gratka dla miłośników kina grozy."
+  },
+  {
+    "movie": {
+      "id": 38
+    },
+    "content": "Niezapomniana komedia, która rozśmiesza do łez."
+  },
+  {
+    "movie": {
+      "id": 12
+    },
+    "content": "Film zaskakuje i wciąga do samego końca, pełen niespodzianek."
+  },
+  {
+    "movie": {
+      "id": 128
+    },
+    "content": "Film o wielkiej determinacji i sile ludzkiego ducha."
+  },
+  {
+    "movie": {
+      "id": 51
+    },
+    "content": "Film, który na długo pozostaje w pamięci, wyjątkowa opowieść."
+  },
+  {
+    "movie": {
+      "id": 39
+    },
+    "content": "Nie jestem pewien, czy zrozumiałem przekaz tego filmu."
+  },
+  {
+    "movie": {
+      "id": 13
+    },
+    "content": "Film obyczajowy, który skłania do refleksji nad życiem."
+  },
+  {
+    "movie": {
+      "id": 53
+    },
+    "content": "Film, który trzyma w napięciu i wciąga od pierwszych minut."
+  },
+  {
+    "movie": {
+      "id": 143
+    },
+    "content": "Niezapomniany film przygodowy, który wciąga jak wir."
+  },
+  {
+    "movie": {
+      "id": 42
+    },
+    "content": "Film akcji, który dostarcza ogromnej dawki adrenaliny."
+  },
+  {
+    "movie": {
+      "id": 94
+    },
+    "content": "Film, który skłonił mnie do głębszych przemyśleń."
+  },
+  {
+    "movie": {
+      "id": 106
+    },
+    "content": "Film, który zaskakuje swoją oryginalnością i głębią przekazu."
+  },
+  {
+    "movie": {
+      "id": 43
+    },
+    "content": "Niezwykle wzruszający dramat, który zostaje w sercu na długo."
+  },
+  {
+    "movie": {
+      "id": 14
+    },
+    "content": "Film, który wywołuje szeroki wachlarz emocji - od śmiechu do łez."
+  },
+  {
+    "movie": {
+      "id": 80
+    },
+    "content": "Film, którym warto się zachwycić, pełen niezapomnianych momentów."
+  },
+  {
+    "movie": {
+      "id": 109
+    },
+    "content": "Film dla miłośników kina akcji, który nie zawiedzie."
+  },
+  {
+    "movie": {
+      "id": 34
+    },
+    "content": "Film, który wciąga od pierwszej minuty i nie puszcza aż do końca."
+  },
+  {
+    "movie": {
+      "id": 112
+    },
+    "content": "Film, który przybliża historię i odkrywa tajemnice."
+  },
+  {
+    "movie": {
+      "id": 64
+    },
+    "content": "Film, który zostawił we mnie wiele niewyjaśnionych pytań."
+  },
+  {
+    "movie": {
+      "id": 108
+    },
+    "content": "Film, który skłania do refleksji nad naszym miejscem w świecie."
+  },
+  {
+    "movie": {
+      "id": 1
+    },
+    "content": "Film, który przypomina nam o ważnych wartościach w życiu."
+  },
+  {
+    "movie": {
+      "id": 85
+    },
+    "content": "Film, który nie tylko bawi, ale także porusza serce."
+  },
+  {
+    "movie": {
+      "id": 146
+    },
+    "content": "Film, który zapada w pamięć i zostaje na długo w myślach."
+  },
+  {
+    "movie": {
+      "id": 25
+    },
+    "content": "Film, który oczarowuje swoją estetyką i głębią przekazu."
+  },
+  {
+    "movie": {
+      "id": 84
+    },
+    "content": "Film, który dostarcza ogromnej dawki adrenaliny i emocji."
+  },
+  {
+    "movie": {
+      "id": 31
+    },
+    "content": "Film, który skłania do refleksji nad sensem naszego życia."
+  },
+  {
+    "movie": {
+      "id": 92
+    },
+    "content": "Film, który wciąga i trzyma w napięciu do ostatnich sekund."
+  },
+  {
+    "movie": {
+      "id": 119
+    },
+    "content": "Film, który zapada w sercu i pozostaje w pamięci na długo."
+  },
+  {
+    "movie": {
+      "id": 127
+    },
+    "content": "Film, który bawi, wzrusza i daje wiele do myślenia."
+  },
+  {
+    "movie": {
+      "id": 103
+    },
+    "content": "Film, który zaskakuje swoim niebanalnym podejściem."
+  },
+  {
+    "movie": {
+      "id": 132
+    },
+    "content": "Film, który skłania do głębszych przemyśleń nad sensem życia."
+  },
+  {
+    "movie": {
+      "id": 37
+    },
+    "content": "Film, który pozostaje w pamięci na długo, wyjątkowe doświadczenie."
+  },
+  {
+    "movie": {
+      "id": 125
+    },
+    "content": "Film, który wciąga i trzyma w napięciu do ostatniej minuty."
+  },
+  {
+    "movie": {
+      "id": 124
+    },
+    "content": "Film, który skłania do głębszych przemyśleń nad naturą ludzką."
+  },
+  {
+    "movie": {
+      "id": 150
+    },
+    "content": "Film, który robi ogromne wrażenie i zostaje na długo w pamięci."
+  }
+]
+

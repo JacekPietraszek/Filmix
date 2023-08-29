@@ -1,0 +1,42 @@
+<app-navigation></app-navigation>
+
+
+<div class="log-in-box">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="alert alert-danger" *ngIf="showError">
+                <p>{{error}}</p>
+             </div>
+            <h2 class="text-center ">Zaloguj się</h2>
+            <br>
+
+            <div class="card">
+                <!-- log in form-->
+                <form #authForm="ngForm" (ngSubmit)="onSubmit(authForm)" class="card-body cardbody-color p-lg-5">
+                    <div class="mb-3">
+                        <input type="text" class="form-control" id="Username" aria-describedby="emailHelp"
+                            placeholder="email" ngModel name="email" required email>
+                    </div>
+                    <br>
+                    <div class="mb-3">
+                        <input type="password" class="form-control" id="password" placeholder="Hasło" ngModel
+                            name="password" required minlength="6">
+                    </div>
+                    <br>
+                    <div class="text-center"><button type="submit" [disabled]="!authForm.valid"
+                            class="btn btn-color px-5 mb-5 w-100">Zaloguj się</button>
+                    </div>
+                    <br>
+                    <br>
+                    <div id="emailHelp" class="form-text text-center">Nie masz konta? <a routerLink="/rejestracja">
+                            Załóż konto</a>
+                    </div>
+                </form>
+                <!--            -->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<app-footer></app-footer>

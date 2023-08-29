@@ -1,0 +1,1540 @@
+[
+  {
+    "title": "Matrix",
+    "description": "Haker odkrywa, że rzeczywistość, w której żyje, jest symulacją stworzoną przez komputery.",
+    "releaseDate": "1999-03-31",
+    "duration": 136,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 6
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 5,
+        "roleName": "Neo"
+      },
+      {
+        "actorId": 6,
+        "roleName": "Trinity"
+      }
+    ]
+  }
+,
+
+  {
+    "title": "Skazani na Shawshank",
+    "description": "Historia niesłusznie skazanego na dożywocie mężczyzny i jego relacje z innymi więźniami w ciągu wielu lat spędzonych w więzieniu Shawshank.",
+    "releaseDate": "1994-09-23",
+    "duration": 142,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 7,
+        "roleName": "Andy Dufresne"
+      },
+      {
+        "actorId": 8,
+        "roleName": "Ellis Boyd 'Red' Redding"
+      }
+    ]
+  }
+,
+
+  {
+    "title": "Gwiezdne wojny: Nowa nadzieja",
+    "description": "Młody rolnik wraz z grupą sojuszników walczy przeciwko złowrogiej Imperium, aby ocalić galaktykę.",
+    "releaseDate": "1977-05-25",
+    "duration": 121,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 9,
+        "roleName": "Luke Skywalker"
+      },
+      {
+        "actorId": 10,
+        "roleName": "Leia Organa"
+      }
+    ]
+  }
+,
+  {
+    "title": "Ojciec chrzestny",
+    "description": "Epicka saga mafijnej rodziny Corleone, skupiająca się na losach Dona Vito Corleone i jego syna Michaela.",
+    "releaseDate": "1972-03-24",
+    "duration": 175,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 11,
+        "roleName": "Don Vito Corleone"
+      },
+      {
+        "actorId": 12,
+        "roleName": "Michael Corleone"
+      }
+    ]
+  }
+,
+  {
+    "title": "Forrest Gump",
+    "description": "Historia życia Forresta, chłopca o niskim ilorazie inteligencji, który przypadkowo bierze udział w wielu ważnych wydarzeniach historycznych.",
+    "releaseDate": "1994-07-06",
+    "duration": 142,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 13,
+        "roleName": "Forrest Gump"
+      },
+      {
+        "actorId": 14,
+        "roleName": "Jenny Curran"
+      }
+    ]
+  }
+,
+  {
+    "title": "Pulp Fiction",
+    "description": "Złożona mozaika historii, które krzyżują się ze sobą, ukazując różne aspekty przestępczości i przemocy.",
+    "releaseDate": "1994-09-10",
+    "duration": 154,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 5
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 15,
+        "roleName": "Vincent Vega"
+      },
+      {
+        "actorId": 16,
+        "roleName": "Jules Winnfield"
+      }
+    ]
+  }
+,
+  {
+    "title": "Lista Schindlera",
+    "description": "Historia niemieckiego przedsiebiorcy, który uratował życie wielu żydowskim pracownikom podczas Holokaustu.",
+    "releaseDate": "1993-12-15",
+    "duration": 195,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 17,
+        "roleName": "Oskar Schindler"
+      },
+      {
+        "actorId": 18,
+        "roleName": "Itzhak Stern"
+      }
+    ]
+  }
+,
+  {
+    "title": "Zielona mila",
+    "description": "Opowieść o niewinie skazanym na śmierć mężczyźnie, który posiada nadnaturalny dar uzdrawiania.",
+    "releaseDate": "1999-12-10",
+    "duration": 189,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 19,
+        "roleName": "Paul Edgecomb"
+      },
+      {
+        "actorId": 20,
+        "roleName": "John Coffey"
+      }
+    ]
+  }
+,
+  {
+    "title": "Lot nad kukułczym gniazdem",
+    "description": "Opowieść o pacjencie psychiatrycznym, który stawia opór autorytarnej strukturze szpitala.",
+    "releaseDate": "1975-11-19",
+    "duration": 133,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 21,
+        "roleName": "Randle McMurphy"
+      },
+      {
+        "actorId": 22,
+        "roleName": "Nurse Ratched"
+      }
+    ]
+  }
+,
+  {
+    "title": "Pewnego razu na Dzikim Zachodzie",
+    "description": "Dwie kobiety wraz z tajemniczym rewolwerowcem stają w obronie miasteczka przed żądnym zemsty przestępcą.",
+    "releaseDate": "1968-12-21",
+    "duration": 175,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 23,
+        "roleName": "Jill McBain"
+      },
+      {
+        "actorId": 24,
+        "roleName": "Cheyenne"
+      }
+    ]
+  }
+,
+  {
+    "title": "Siedem",
+    "description": "Detektyw i jego partner prowadzą śledztwo w sprawie seryjnego mordercy, który działa według siedmiu grzechów głównych.",
+    "releaseDate": "1995-09-15",
+    "duration": 127,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 25,
+        "roleName": "Detektyw Somerset"
+      },
+      {
+        "actorId": 26,
+        "roleName": "Detektyw Mills"
+      }
+    ]
+  }
+,
+  {
+    "title": "Nietykalni",
+    "description": "Historia przyjaźni między bogatym z niepełnosprawnością a bezrobotnym młodzieńcem.",
+    "releaseDate": "2011-11-02",
+    "duration": 112,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 27,
+        "roleName": "Philippe"
+      },
+      {
+        "actorId": 28,
+        "roleName": "Driss"
+      }
+    ]
+  }
+,
+  {
+    "title": "Władca Pierścieni: Drużyna Pierścienia",
+    "description": "Grupa podróżników wyrusza w niebezpieczną wyprawę, aby zniszczyć potężny Pierścień i powstrzymać ciemne siły.",
+    "releaseDate": "2001-12-19",
+    "duration": 178,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 29,
+        "roleName": "Frodo Baggins"
+      },
+      {
+        "actorId": 30,
+        "roleName": "Aragorn"
+      }
+    ]
+  }
+,
+  {
+    "title": "Dobry, zły i brzydki",
+    "description": "Trzech nieznajomych łączy siły, aby odnaleźć skarb ukryty w czasie wojny secesyjnej.",
+    "releaseDate": "1966-12-23",
+    "duration": 161,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 31,
+        "roleName": "Tuco"
+      },
+      {
+        "actorId": 32,
+        "roleName": "Blondie"
+      }
+    ]
+  }
+,
+  {
+    "title": "Siedem dusz",
+    "description": "Mężczyzna o tajemniczej przeszłości postanawia pomóc siedmiu obcym ludziom, aby zrekompensować swoje błędy.",
+    "releaseDate": "2008-12-19",
+    "duration": 123,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 33,
+        "roleName": "Ben Thomas"
+      },
+      {
+        "actorId": 34,
+        "roleName": "Emily Posa"
+      }
+    ]
+  }
+,
+  {
+    "title": "Milczenie owiec",
+    "description": "Młoda agwentka FBI musi poprosić o pomoc skazanego na dożywocie kanibala, aby schwytać innego seryjnego mordercę.",
+    "releaseDate": "1991-01-30",
+    "duration": 118,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 35,
+        "roleName": "Clarice Starling"
+      },
+      {
+        "actorId": 36,
+        "roleName": "Dr. Hannibal Lecter"
+      }
+    ]
+  }
+,
+  {
+    "title": "Mroczny Rycerz",
+    "description": "Batman staje do walki z psychopatycznym Jokerem, który zagraża miastu Gotham.",
+    "releaseDate": "2008-07-14",
+    "duration": 152,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 37,
+        "roleName": "Bruce Wayne / Batman"
+      },
+      {
+        "actorId": 38,
+        "roleName": "Joker"
+      }
+    ]
+  }
+,
+  {
+    "title": "Oszukane",
+    "description": "Dwóch oszustów rywalizuje ze sobą, próbując oszukać bogate wdowy na Francuskiej Riwiery.",
+    "releaseDate": "1988-12-16",
+    "duration": 110,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 39,
+        "roleName": "Lawrence Jamieson"
+      },
+      {
+        "actorId": 40,
+        "roleName": "Freddy Benson"
+      }
+    ]
+  }
+,
+  {
+    "title": "Gladiator",
+    "description": "Generał rzymski zostaje zdradzony i staje się niewolnikiem, walcząc na arenie gladiatorów.",
+    "releaseDate": "2000-05-01",
+    "duration": 155,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 41,
+        "roleName": "Maximus"
+      },
+      {
+        "actorId": 42,
+        "roleName": "Commodus"
+      }
+    ]
+  }
+,
+  {
+    "title": "Requiem dla snu",
+    "description": "Historia uzależnionych od narkotyków mieszkańców Nowego Jorku i ich upadku.",
+    "releaseDate": "2000-10-06",
+    "duration": 102,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 43,
+        "roleName": "Harry Goldfarb"
+      },
+      {
+        "actorId": 44,
+        "roleName": "Sara Goldfarb"
+      }
+    ]
+  }
+,
+  {
+    "title": "Czarnobyl. Rejon otwarty",
+    "description": "Film opowiada o ludziach, którzy pozostali w obszarze ewakuacyjnym Czarnobyla po katastrofie jądrowej.",
+    "releaseDate": "2019-11-14",
+    "duration": 137,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 45,
+        "roleName": "Ignat"
+      },
+      {
+        "actorId": 46,
+        "roleName": "Alyona"
+      }
+    ]
+  }
+,
+  {
+    "title": "Witaj w klubie",
+    "description": "Historia mężczyzny, który zostaje uczestnikiem ekskluzywnego klubu, gdzie tajemnicze zasady zaczynają rządzić jego życiem.",
+    "releaseDate": "1999-09-10",
+    "duration": 139,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 47,
+        "roleName": "Narrator"
+      },
+      {
+        "actorId": 48,
+        "roleName": "Tyler Durden"
+      }
+    ]
+  }
+,
+  {
+    "title": "Mad Max: Na drodze gniewu",
+    "description": "W postapokaliptycznym świecie Max walczy o przetrwanie i staje do walki z brutalnymi bandytami.",
+    "releaseDate": "2015-05-13",
+    "duration": 120,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 49,
+        "roleName": "Max Rockatansky"
+      },
+      {
+        "actorId": 50,
+        "roleName": "Furiosa"
+      }
+    ]
+  }
+,
+  {
+    "title": "Czas apokalipsy",
+    "description": "Oficer wojskowy otrzymuje rozkaz odnalezienia i zniszczenia sowieckiego ataku nuklearnego podczas kryzysu kubańskiego.",
+    "releaseDate": "1979-08-15",
+    "duration": 147,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 51,
+        "roleName": "Captain Benjamin Willard"
+      },
+      {
+        "actorId": 52,
+        "roleName": "Colonel Walter E. Kurtz"
+      }
+    ]
+  }
+,
+  {
+    "title": "Szeregowiec Ryan",
+    "description": "Grupa żołnierzy zostaje wysłana na misję, aby odnaleźć i ocalić jednego żołnierza podczas II wojny światowej.",
+    "releaseDate": "1998-07-24",
+    "duration": 169,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 53,
+        "roleName": "Captain John H. Miller"
+      },
+      {
+        "actorId": 54,
+        "roleName": "Private James Francis Ryan"
+      }
+    ]
+  }
+,
+  {
+    "title": "Leon zawodowiec",
+    "description": "Zawodowy zabójca pomaga młodej dziewczynce, która staje się jego uczennicą i przyjaciółką.",
+    "releaseDate": "1994-09-14",
+    "duration": 133,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 55,
+        "roleName": "Léon"
+      },
+      {
+        "actorId": 56,
+        "roleName": "Mathilda"
+      }
+    ]
+  }
+,
+  {
+    "title": "Shutter Island",
+    "description": "Ustalający rzeczywistość detektyw śledczy próbuje rozwiązać zagadkę zniknięcia pacjentki z zakładu psychiatrycznego na wyspie.",
+    "releaseDate": "2010-02-13",
+    "duration": 138,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 57,
+        "roleName": "Teddy Daniels"
+      },
+      {
+        "actorId": 58,
+        "roleName": "Dr. John Cawley"
+      }
+    ]
+  }
+,
+  {
+    "title": "Wielki Gatsby",
+    "description": "Historia tajemniczego milionera i jego obsesyjnej miłości do kobiety z przeszłości.",
+    "releaseDate": "2013-05-10",
+    "duration": 143,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 59,
+        "roleName": "Jay Gatsby"
+      },
+      {
+        "actorId": 60,
+        "roleName": "Daisy Buchanan"
+      }
+    ]
+  }
+,
+  {
+    "title": "Fight Club",
+    "description": "Mężczyzna cierpiący na bezsenność zakłada tajny klub, który ewoluuje w niebezpieczną organizację.",
+    "releaseDate": "1999-10-15",
+    "duration": 139,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 61,
+        "roleName": "The Narrator"
+      },
+      {
+        "actorId": 62,
+        "roleName": "Tyler Durden"
+      }
+    ]
+  }
+,
+  {
+    "title": "Incepcja",
+    "description": "Zespół złodziei umysłów wchodzi w umysł biznesmena, aby zaszczepić w nim myśl o wyborze.",
+    "releaseDate": "2010-07-08",
+    "duration": 148,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 63,
+        "roleName": "Dom Cobb"
+      },
+      {
+        "actorId": 64,
+        "roleName": "Arthur"
+      }
+    ]
+  }
+,
+  {
+    "title": "Zniewolony: 12 Years a Slave",
+    "description": "Historia afroamerykańskiego mężczyzny porwanego i zmuszonego do niewolnictwa.",
+    "releaseDate": "2013-10-18",
+    "duration": 134,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 65,
+        "roleName": "Solomon Northup"
+      },
+      {
+        "actorId": 66,
+        "roleName": "Patsey"
+      }
+    ]
+  }
+,
+  {
+    "title": "American Beauty",
+    "description": "Opowieść o kryzysie małżeńskim i życiowym mężczyzny, który wpada w obsesyjną fascynację swoją córką nastolatką.",
+    "releaseDate": "1999-09-15",
+    "duration": 122,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 67,
+        "roleName": "Lester Burnham"
+      },
+      {
+        "actorId": 68,
+        "roleName": "Angela Hayes"
+      }
+    ]
+  }
+,
+  {
+    "title": "Chłopcy z ferajny",
+    "description": "Młodzi mężczyźni wchodzą w świat przestępczości w dzielnicy Nowego Jorku.",
+    "releaseDate": "1990-09-12",
+    "duration": 146,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 69,
+        "roleName": "Henry Hill"
+      },
+      {
+        "actorId": 70,
+        "roleName": "James Conway"
+      }
+    ]
+  }
+,
+  {
+    "title": "Pan i władca: Na krańcu świata",
+    "description": "Kapitan statku pirackiego wyrusza w poszukiwaniu tajemniczego źródła młodości.",
+    "releaseDate": "2003-12-25",
+    "duration": 143,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 71,
+        "roleName": "Captain Jack Sparrow"
+      },
+      {
+        "actorId": 72,
+        "roleName": "Hector Barbossa"
+      }
+    ]
+  }
+,
+  {
+    "title": "Człowiek z marmuru",
+    "description": "Film opowiada historię młodej dziennikarki, która próbuje odkryć tajemnice życia swojego bohatera.",
+    "releaseDate": "1977-02-10",
+    "duration": 160,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 73,
+        "roleName": "Agnieszka"
+      },
+      {
+        "actorId": 74,
+        "roleName": "Mateusz Birkut / Jerzy Burski"
+      }
+    ]
+  }
+,
+  {
+    "title": "Uciekający pociąg",
+    "description": "Dwóch więźniów staje do walki z hitlerowskimi żołnierzami, aby uratować ważny ładunek.",
+    "releaseDate": "1966-06-22",
+    "duration": 120,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 75,
+        "roleName": "Lietenant Robert Cyril Langdon"
+      },
+      {
+        "actorId": 76,
+        "roleName": "Captain John Ramsey"
+      }
+    ]
+  }
+,
+  {
+    "title": "Casino",
+    "description": "Historia hazardzisty i jego partnerki, którzy próbują zbudować imperium w Las Vegas latami 70.",
+    "releaseDate": "1995-11-22",
+    "duration": 178,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 77,
+        "roleName": "Sam 'Ace' Rothstein"
+      },
+      {
+        "actorId": 78,
+        "roleName": "Ginger McKenna"
+      }
+    ]
+  }
+,
+  {
+    "title": "Nigdy nie mów nigdy",
+    "description": "James Bond powraca, aby powstrzymać złowrogiego geniusza przed uruchomieniem rakiet nuklearnych.",
+    "releaseDate": "1983-10-07",
+    "duration": 134,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 79,
+        "roleName": "James Bond"
+      },
+      {
+        "actorId": 80,
+        "roleName": "Maximilian Largo"
+      }
+    ]
+  }
+,
+  {
+    "title": "Gran Torino",
+    "description": "Emerytowany weteran wojny staje się obrońcą swojego sąsiedztwa przed gangami.",
+    "releaseDate": "2008-12-09",
+    "duration": 116,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 81,
+        "roleName": "Walt Kowalski"
+      },
+      {
+        "actorId": 82,
+        "roleName": "Thao Vang Lor"
+      }
+    ]
+  }
+,
+  {
+    "title": "Podziemny krąg",
+    "description": "Mężczyzna zakłada klub, w którym ludzie walczą ze sobą, aby uwolnić swoje wewnętrzne demony.",
+    "releaseDate": "1999-10-08",
+    "duration": 139,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 83,
+        "roleName": "The Narrator"
+      },
+      {
+        "actorId": 84,
+        "roleName": "Tyler Durden"
+      }
+    ]
+  }
+,
+  {
+    "title": "Pianista",
+    "description": "Opowieść o życiu i przetrwaniu polskiego pianisty podczas okupacji niemieckiej w Warszawie.",
+    "releaseDate": "2002-09-24",
+    "duration": 150,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 85,
+        "roleName": "Władysław Szpilman"
+      },
+      {
+        "actorId": 86,
+        "roleName": "Captain Wilm Hosenfeld"
+      }
+    ]
+  }
+,
+  {
+    "title": "Django",
+    "description": "Niemiecki łowca nagród i były niewolnik łączą siły, aby uwolnić żonę Django i pomóc mu zdobyć wolność.",
+    "releaseDate": "2012-12-25",
+    "duration": 165,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 87,
+        "roleName": "Dr. King Schultz"
+      },
+      {
+        "actorId": 88,
+        "roleName": "Django"
+      }
+    ]
+  }
+,
+  {
+    "title": "Piękny umysł",
+    "description": "Film opowiada historię matematyka Johna Nasha i jego walki z chorobą psychiczną.",
+    "releaseDate": "2001-12-21",
+    "duration": 135,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 89,
+        "roleName": "John Nash"
+      },
+      {
+        "actorId": 90,
+        "roleName": "Alicia Nash"
+      }
+    ]
+  }
+,
+  {
+    "title": "Zielona mila",
+    "description": "Opowieść o strażniku więziennym i jego relacji z mężczyzną o nadnaturalnych zdolnościach, skazanym na śmierć.",
+    "releaseDate": "1999-12-10",
+    "duration": 189,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 91,
+        "roleName": "Paul Edgecomb"
+      },
+      {
+        "actorId": 92,
+        "roleName": "John Coffey"
+      }
+    ]
+  }
+,
+  {
+    "title": "Czasem słońce, czasem deszcz",
+    "description": "Historia miłości między dwójką młodych ludzi, którzy zmierzyli się z nieuleczalną chorobą.",
+    "releaseDate": "2012-06-22",
+    "duration": 124,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 93,
+        "roleName": "Hazel Grace Lancaster"
+      },
+      {
+        "actorId": 94,
+        "roleName": "Augustus Waters"
+      }
+    ]
+  }
+,
+  {
+    "title": "Uprowadzona: 12 lat niewoli",
+    "description": "Historia mężczyzny porwanego i zmuszonego do niewolnictwa przez grupę rebeliantów w Afryce.",
+    "releaseDate": "2013-10-18",
+    "duration": 134,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 95,
+        "roleName": "Solomon Northup"
+      },
+      {
+        "actorId": 96,
+        "roleName": "Samuel Bass"
+      }
+    ]
+  }
+,
+  {
+    "title": "Zjawa",
+    "description": "Mężczyzna o tajemniczej przeszłości stara się pomóc swojej rodzinie i walczyć z przeciwnościami losu.",
+    "releaseDate": "2015-11-25",
+    "duration": 132,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 97,
+        "roleName": "Adonis Johnson Creed"
+      },
+      {
+        "actorId": 98,
+        "roleName": "Rocky Balboa"
+      }
+    ]
+  }
+,
+  {
+    "title": "Prestiż",
+    "description": "Opowieść o rywalizacji dwóch iluzjonistów w dążeniu do stworzenia najlepszego sztucznego triku.",
+    "releaseDate": "2006-10-17",
+    "duration": 130,
+    "episodes" : 0,
+    "category": {
+      "id": 1
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 99,
+        "roleName": "Alfred Borden"
+      },
+      {
+        "actorId": 100,
+        "roleName": "Robert Angier"
+      }
+    ]
+  }
+,
+  {
+    "title": "Friends",
+    "description": "Przygody grupy przyjaciół w Nowym Jorku.",
+    "releaseDate": "1994-09-22",
+    "duration": 30,
+    "episodes" : 12,
+    "category": {
+      "id": 2
+    },
+    "movieCategories": [
+      {
+        "id": 4
+      },
+      {
+        "id": 6
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 141,
+        "roleName": "Rachel Green"
+      },
+      {
+        "actorId": 142,
+        "roleName": "Monica Geller"
+      }
+    ]
+  }
+,
+  {
+    "title": "The Simpsons",
+    "description": "Przygody rodziny Simpsonów i mieszkańców Springfield.",
+    "releaseDate": "1989-12-17",
+    "duration": 25,
+    "episodes" : 8,
+    "category": {
+      "id": 2
+    },
+    "movieCategories": [
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 143,
+        "roleName": "Homer Simpson"
+      },
+      {
+        "actorId": 144,
+        "roleName": "Marge Simpson"
+      }
+    ]
+  }
+,
+  {
+    "title": "House of Cards",
+    "description": "Manipulacje i intrygi polityczne w Waszyngtonie.",
+    "releaseDate": "2013-02-01",
+    "duration": 50,
+    "episodes" : 14,
+    "category": {
+      "id": 2
+    },
+    "movieCategories": [
+      {
+        "id": 5
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 145,
+        "roleName": "Frank Underwood"
+      },
+      {
+        "actorId": 146,
+        "roleName": "Claire Underwood"
+      }
+    ]
+  }
+,
+  {
+    "title": "The Walking Dead",
+    "description": "Walka o przetrwanie ludzi w apokaliptycznym świecie opanowanym przez zombie.",
+    "releaseDate": "2010-10-31",
+    "duration": 45,
+    "episodes" : 3,
+    "category": {
+      "id": 2
+    },
+    "movieCategories": [
+      {
+        "id": 3
+      },
+      {
+        "id": 5
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 147,
+        "roleName": "Rick Grimes"
+      },
+      {
+        "actorId": 148,
+        "roleName": "Daryl Dixon"
+      }
+    ]
+  }
+,
+  {
+    "title": "Peaky Blinders",
+    "description": "Przygody gangu Peaky Blinders w latach 20. w Birmingham.",
+    "releaseDate": "2013-09-12",
+    "duration": 45,
+    "episodes" : 9,
+    "category": {
+      "id": 2
+    },
+    "movieCategories": [
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      }
+    ],
+    "actorMovieDtoList": [
+      {
+        "actorId": 149,
+        "roleName": "Thomas Shelby"
+      },
+      {
+        "actorId": 150,
+        "roleName": "Arthur Shelby"
+      }
+    ]
+  }
+]

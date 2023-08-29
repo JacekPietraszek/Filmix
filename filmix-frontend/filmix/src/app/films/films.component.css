@@ -1,0 +1,54 @@
+.image-parent {
+    
+    display: inline-block;
+    
+  }
+
+  .list_of_films
+  {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+
+  h4
+  {
+    text-align: center;
+    /* Set a maximum width for the film title */
+    max-width: 200px; 
+    /* Add ellipsis (...) for overflow */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  li 
+  {
+    float: left;
+  }
+
+
+    /* link styling*/
+
+  /* Regular link */
+  a 
+  {
+    color: #000000; 
+    text-decoration: none; 
+  }
+
+/* Link on hover */
+  a:hover {
+    color: rgb(230, 55, 45);
+    
+  }
+
+  li:hover
+  {
+        
+    cursor:pointer;
+    text-decoration: none;
+    transform: scale(1.05); /* Powiększenie o 10% */
+    transition: transform 0.2s ease-in-out; /* Płynna animacja */
+  }

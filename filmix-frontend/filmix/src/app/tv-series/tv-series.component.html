@@ -1,0 +1,19 @@
+<app-navigation></app-navigation>
+
+<br>
+<br>
+<br>
+<br>
+
+<div class="list_of_serials">
+    <ul class="list-group list-group-flush">
+        <li *ngFor="let serial of serialList" class="list-group-item d-flex justify-content-between align-items-center">
+            <div class="image-parent">
+                <a [routerLink]="['/serial', serial.title]"><img img src="assets/images/tata.jpg"  class="img-fluid" [alt]="serial.title"></a>
+            </div>
+            <h4><a [routerLink]="['/serial', serial.title]">{{ serial.title }}</a></h4>
+        </li>
+    </ul>
+</div>
+
+<app-footer></app-footer>

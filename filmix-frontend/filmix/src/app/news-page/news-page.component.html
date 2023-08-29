@@ -1,0 +1,15 @@
+<app-navigation></app-navigation>
+
+<div class="news">
+
+<li *ngFor="let news of newsList">
+  <!--  <a [routerLink]="['/film', film.title]"><h4>{{ film.title }}</h4></a>  -->
+  <ul>
+    <h3>{{news.movie.title}} </h3>
+    <p>{{news.content}}</p>
+  </ul>
+</li>
+
+</div>
+
+<app-footer></app-footer>

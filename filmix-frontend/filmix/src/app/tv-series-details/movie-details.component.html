@@ -1,0 +1,30 @@
+<app-navigation></app-navigation>
+
+
+<div class="styling">
+
+<div *ngIf="movieData">
+  <h1>{{ movieData.title }}</h1>
+  <img [src]="movieData.imageURL" [alt]="movieData.title">
+  <p>{{movieData.description}}</p>
+  <p>Czas trwania: {{movieData.duration}} minut</p>
+  <p>Rok wydania: {{movieData.releaseDate}}</p>
+  <ng-container *ngIf="movieData.type === 'serial'">
+    <p>Liczba odcinków: {{ movieData.episodes }}</p>
+  </ng-container>
+  
+
+  <h2>Obsada:</h2>
+  <ul>
+    <li *ngFor="let actorMovie of movieData.actorMovieDtoList">
+      {{ actorMovie.actor?.firstName }} {{ actorMovie.actor?.lastName }} - Rola: {{ actorMovie.roleName || 'Brak informacji o roli' }}
+    </li>
+    
+  </ul>
+</div>
+
+
+</div>
+
+
+<app-footer></app-footer>

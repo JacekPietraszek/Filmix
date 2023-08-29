@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Film"
+  },
+  {
+    "name": "Serial"
+  },
+  {
+    "name": "Akcja"
+  },
+  {
+    "name": "Komedia"
+  },
+  {
+    "name": "Dramat"
+  },
+  {
+    "name": "Sci-Fi"
+  },
+  {
+    "name": "Przygodowy"
+  },
+  {
+    "name": "Horror"
+  }
+]

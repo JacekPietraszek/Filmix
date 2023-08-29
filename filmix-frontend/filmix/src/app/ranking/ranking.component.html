@@ -1,0 +1,22 @@
+<app-navigation></app-navigation>
+<h3>Rankingi</h3>
+<div class="ranking">
+    
+  <div class="tabs">
+    <button class="tablink" (click)="changeTab('filmy')" [class.active]="activeTab === 'filmy'">Filmy</button>
+    <button class="tablink" (click)="changeTab('seriale')" [class.active]="activeTab === 'seriale'">Seriale</button>
+  </div>
+
+  <div *ngIf="activeTab === 'filmy'" class="tabcontent">
+  
+
+  </div>
+
+  <div *ngIf="activeTab === 'seriale'" class="tabcontent">
+    <ol>
+      <li class="list-group-item">Serial</li>
+    </ol>
+  </div>
+      
+</div>
+<app-footer></app-footer>

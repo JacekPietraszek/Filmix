@@ -1,0 +1,30 @@
+.btn-color{
+    background-color: #0059ff;
+    color: #fff;
+    
+  }
+  
+  .cardbody-color{
+    background-color: #030303;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  .log-in-box
+  {
+ margin-top: 140px;
+ margin-left: 35%;
+ margin-bottom: 150px;
+ z-index: 1;
+  
+    
+  }
+
+
+
+  .log-in-box h2
+  {
+    color: rgb(194, 189, 180);
+  }

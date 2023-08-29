@@ -1,0 +1,15 @@
+<div class="navigation">
+    <div style="float: left;"><a href="#"><img src="assets/images/logo.png" alt="filmix logo"></a></div>
+    <app-search-bar></app-search-bar>
+    <span id="logIn"><a routerLink="/zaloguj" class="bordered"  *ngIf="!(isLoggedIn$ | async)">Zaloguj się <i class="bi bi-box-arrow-in-right"></i></a>
+      <a  *ngIf="isLoggedIn$ | async">Nazwa Użytkownika</a>
+    </span>
+    <div style="clear: both;"></div>
+    <ul class="list-inline">
+        <li class="list-inline-item"><a routerLink="/filmy">FILMY <i class="bi bi-camera-reels"></i></a></li>
+        <li class="list-inline-item"><a routerLink="/seriale">SERIALE <i class="bi bi-film"></i></a></li>
+        <li class="list-inline-item"><a routerLink="/rankingi">RANKINGI <i class="bi bi-star"></i></a></li>
+        <li class="list-inline-item"><a routerLink="/newsy">NEWSY <i class="bi bi-newspaper"></i></a></li>
+      </ul>
+      <hr>
+</div>

@@ -1,0 +1,21 @@
+<app-navigation></app-navigation>
+<br>
+<br>
+<br>
+<br>
+
+<div class="list_of_films">
+    <ul class="list-group list-group-flush">
+      <li *ngFor="let film of filmList" class="list-group-item d-flex justify-content-between align-items-center">
+        <div class="image-parent">
+          <a [routerLink]="['/film', film.title]"><img *ngIf="film.image" [src]="film.image.imageUrl" class="img-fluid" [alt]="film.title"></a>
+        </div>
+        <a [routerLink]="['/film', film.title]"><h4>{{ film.title }}</h4></a>
+      </li>
+    </ul>
+  </div>
+
+
+
+<app-footer></app-footer>
+
